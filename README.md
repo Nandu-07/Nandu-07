@@ -1,5 +1,26 @@
-# 💫 About Me:
-### About Me<br><br>👋 Hi, I'm Nandu<br><br>🌱 I'm a final year electrical and communication engineering student with a passion for Arduino and C++. I enjoy tinkering with hardware projects and exploring the world of embedded systems.<br><br>
+# 👨‍💻 About Me
+
+Hi! I'm **Nandu KR**, an Electronics and Communication Engineer with a passion for Embedded Systems, programming, and industrial safety systems. Here's a quick overview of my experience and skills:
+
+- 🔧 **Key Skills**:
+  - Arduino programming, C++ programming, and Embedded Systems Development.
+  - Hands-on expertise in CNC machine operations and IRIG decoder systems.
+
+- 🏆 **Projects**:
+  - **Embedded IRIG Decoder**: Developed a BeagleBone Black-based system, improving data precision by 30%.
+  - **Smart Industrial Safety System**: Designed an Arduino-powered device to detect safety issues in industries.
+
+- 💼 **Work Experience**:
+  - Operated CNC machines, achieving a 95% efficiency rate and reducing downtime by 20%.
+  - Enhanced customer support processes, reducing response times by 20%.
+
+- 🎓 **Education**:
+  - B.E. in Electronics and Communication Engineering from Shepherd College of Engineering and Technology.
+
+- 📜 **Certifications**:
+  - Development of IRIG Decoder System – Vikram Sarabhai Space Center (VSSC).
+  - Remote Gas Pipeline Tunnel Temperature Monitoring – Tamil Nadu Skills Development Corporation.
+
 
 ### Currently Working On<br><br>- Designing fun Arduino projects to enhance my practical skills.<br>- Learning C++ programming for embedded systems.<br>- Collaborating with fellow beginners to build a supportive coding community.
 
